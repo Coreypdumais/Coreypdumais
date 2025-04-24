@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Coreypdumais
-- 👀 I’m interested in ... learning to code for game design. Currently working most in Unity / c##
-- 🌱 I’m currently learning ... web development! HTML, CSS, Javascrip are my focus points but hoping to continue learning other languages. 
+- 👀 I’m interested in ... learning to code for a number of reasons. Professionally, I'm most interested in data analysis, with an emphasis on python and the associated data science libraries (pandas, numpy, matplotlib, seaborn, etc). Casually, I enjoy coding games using engines such as Unity, Unreal Enginge, and gbstudio.
+- 🌱 I’m currently learning ... python for data science.
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... email; Coreypdumais@gmail.com is a good start
 
